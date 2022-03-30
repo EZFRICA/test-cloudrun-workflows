@@ -1,0 +1,3 @@
+fastapi==0.75.0
+google-cloud-workflows==1.6.1
+uvicorn==0.17.6
